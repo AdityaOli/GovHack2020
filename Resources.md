@@ -20,3 +20,6 @@
 19. https://theconversation.com/twelve-charts-on-race-and-racism-in-australia-105961
 20. https://www.theguardian.com/australia-news/2019/aug/27/racism-study-finds-one-in-three-school-students-are-victims-of-discrimination
 21. https://www.theguardian.com/australia-news/2019/apr/15/australian-poverty-in-graphs-its-a-desperate-state-of-affairs
+22. https://www.theguardian.com/australia-news/2019/apr/19/its-soul-destroying-the-stress-and-stigma-of-being-a-single-parent-on-welfare
+23. https://www.csmc.org.au/wp-content/uploads/2019/12/One-in-Eight-Families_CSMC-National-Survey-Dec-2019.pdf
+24. 
