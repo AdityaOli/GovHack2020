@@ -14,7 +14,7 @@
 13. Australian Institute of Health and Welfare. (2007). The Burden of Disease and Injury in Australia. AIHW: Canberra.
 14. Eyers, K. & Parker, G. (eds) (2008). Mastering Bipolar Disorder: An insider’s guide to managing mood swings and finding balance. Allen & Unwin, Sydney.
 15. Australian Institute of Health and Welfare. (2012). Perinatal depression: data from the 2010 Australian National Infant Feeding Survey. AIHW: Canberra.
-16. https://www.aic.gov.au/publications/ndlerfmonograph/ndlerfmonograph48
+16. https://www.aic.gov.au/sites/default/files/2020-05/monograph-48.pdf
 17. https://www.bupa.com.au/healthcare-guide/what-is-australias-healthcare-system
 18. https://www.missionaustralia.com.au/publications/youth-survey/1318-can-we-talk-seven-year-youth-mental-health-report-2012-2018/file
 19. https://theconversation.com/twelve-charts-on-race-and-racism-in-australia-105961
@@ -22,4 +22,7 @@
 21. https://www.theguardian.com/australia-news/2019/apr/15/australian-poverty-in-graphs-its-a-desperate-state-of-affairs
 22. https://www.theguardian.com/australia-news/2019/apr/19/its-soul-destroying-the-stress-and-stigma-of-being-a-single-parent-on-welfare
 23. https://www.csmc.org.au/wp-content/uploads/2019/12/One-in-Eight-Families_CSMC-National-Survey-Dec-2019.pdf
-24. 
+24. http://www2.imm.dtu.dk/pubdb/pubs/6010-full.html
+25. https://www.familyfirst.org.nz/wp-content/uploads/2018/06/Imprisonment-and-Family-Structure-What-is-the-Evidence-Telling-Us-2018.pdf
+26. https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/2071.0~2016~Main%20Features~Snapshot%20of%20Australia,%202016~2
+27. https://humanrights.gov.au/sites/default/files/whyarepeopleracist.pdf
